@@ -1,6 +1,9 @@
 # Vim
 *.swp
 
+# Ignore bin folder
+bin/*
+
 # Prerequisites
 *.d
 
